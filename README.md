@@ -2,7 +2,7 @@
 
 ### Overview
 
-This is a CLI mock demonstration of a customer ordering and checking out products from a store called Bamazon.
+This is a CLI mock demonstration of a customer ordering and checking out products from a store called Bamazon, which contains 10 products in stock.
 
 The video below demonstrates what happens when the purchase is successful: 
 [Demo of Customer Purchase](https://youtu.be/OYjUW4uJ5sE)
@@ -16,6 +16,10 @@ The video below demonstrates what happens when the purhase is unsuccessful:
 If the customer enters an invalid Item ID, then the customer will be notified and asked to order again with a valid Item ID. 
 If the customer's order is greater than the available stock quantity, then the customer will be notified and asked to place another order. 
 
+### How to Run
+
+Run bamazonCustomer.js through Node.JS in bash/terminal.
+
 ### Technologies
 
 MySQL, Node.JS, JS, SQL
@@ -26,8 +30,8 @@ mysql, inquirer
 
 ### Credits
 
-Denis Wu
-Trilogy
+*Denis Wu
+*Trilogy
 
 
 
