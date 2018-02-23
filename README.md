@@ -30,8 +30,7 @@ mysql, inquirer
 
 ### Credits
 
-*Denis Wu
-*Trilogy
+Denis Wu, Trilogy
 
 
 
