@@ -1,6 +1,4 @@
 # bamazon
 
-![Alt Text](https://media.giphy.com/media/1BGgyNhRHqP6yBqJVw/giphy.gif)
+[Demo with no Customer Error](https://youtu.be/OYjUW4uJ5sE)
 
-
-![Alt Text](http://gph.is/2HDHuso)
